@@ -24,11 +24,13 @@ Grocerybot hasn't been tested on other operating systems, but it will probably w
 
 ## Usage
 In the grocerybot directory you should find list.txt, which is where you put your grocery list. The list.txt in this repo shows an example of how to do this:
-> ground beef
-> taco shells x2
-> shredded cheese
-> salsa
-> tortilla chips
+```
+ground beef  
+taco shells x2  
+shredded cheese  
+salsa  
+tortilla chips  
+```
 
 Each item should be on a separate line. How specific each item is is up to you. Adding `x#` (where `#` is a number) to the end of a line indicates that you want to add that many of that item to your cart. 
 
