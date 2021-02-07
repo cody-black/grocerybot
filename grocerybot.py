@@ -9,8 +9,7 @@ import os
 import re
 import time
 
-# PROFILE_PATH = "/home/username/.mozilla/firefox/whatever-your-profile-is"
-PROFILE_PATH = "/home/cody/.mozilla/firefox/11t3wp9p.default-release"
+PROFILE_PATH = "/home/username/.mozilla/firefox/whatever-your-profile-is"
 
 # Attempt to read from the grocery list and exit if it can't be found
 try:
